@@ -1,0 +1,7 @@
+Updated Vaadin Spring Security Project from github repository:
+"https://github.com/peholmst/SpringSecurityDemo/tree/master/filter-based-security"
+
+(Vaadin 8.0.5 version, SpringBoot 1.5.2)
+
+Spring Boot doesn't support Velocity since 1.4 version,
+in this project it was replaced by Freemarker Java Template Engine)
