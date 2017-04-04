@@ -5,3 +5,16 @@ Updated Vaadin Spring Security Project from github repository:
 
 Spring Boot doesn't support Velocity since 1.4 version,
 in this project it was replaced by Freemarker Java Template Engine)
+
+run command: mvn spring-boot:run
+
+link: http://127.0.0.1:8080/demo
+
+example users:
+login: user
+password: p
+
+login: admin
+password: p
+
+other configurations in application.properties file
